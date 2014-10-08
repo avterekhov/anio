@@ -206,5 +206,5 @@ For more information contact Alexander Terekhov (avterekhov AT
 gmail.com) or visit the Facebook page for ANIO:
 https://www.facebook.com/anio.method
 
-[1] : http://link.springer.com/article/10.1007/s00285-009-0306-3
-[2] : http://link.springer.com/article/10.1007/s00422-011-0421-2
+[1]: http://link.springer.com/article/10.1007/s00285-009-0306-3
+[2]: http://link.springer.com/article/10.1007/s00422-011-0421-2
